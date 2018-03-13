@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Innovizz</string>
+
+    <!--bottombar title-->
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_alarm">Alarm</string>
+    <string name="title_tips">Tips</string>
+
+    <!--Alarm Layout-->
+    <string name="medicine_morning">Morning</string>
+    <string name="medicine_afternoon">Afternoon</string>
+    <string name="medicine_night">Night</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_save">Save</string>
+</resources>
